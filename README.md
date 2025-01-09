@@ -1,16 +1,5 @@
-👋 Hallo, ich bin @AbdiazizMJ87
-Ich bin ein IT-begeisterter Student, der derzeit an spannenden Projekten arbeitet!
-
-👀 Ich interessiere mich für Coding
-Besonders interessiert mich die Softwareentwicklung, Systemintegration und Datenmanagement.
-
-🌱 Ich lerne derzeit IT-Systemintegration
-Ich lerne, wie man IT-Systeme, Netzwerke und moderne Technologien entwickelt, implementiert und verwaltet.
-
-💞️ Ich suche nach spannenden Kooperationen
-Ich möchte mit anderen Entwicklern zusammenarbeiten und Projekte in den Bereichen Programmierung, Datenmanagement oder Unternehmenssysteme umsetzen.
-
-📫 So kannst du mich erreichen
+Ich bin Abdiaziz, angehender Fachinformatiker für Systemintegration und begeistere mich für IT-Systeme, Netzwerke sowie Softwareentwicklung.
+Zurzeit erweitere ich mein Wissen in Bereichen wie Virtualisierung, Cloud-Computing und IT-Sicherheit, um stets auf dem neuesten Stand der Technik zu bleiben.
 
 
 LinkedIn: Abdiazizmoja
